@@ -8,9 +8,9 @@
 #==============================================================================
 
 
-# remove applications
-sudo apt-get --yes remove --purge minecraft-pi 
+# remove applications 
 sudo apt-get --yes remove --purge scratch
+sudo apt-get --yes remove --purge minecraft-pi
 sudo apt-get --yes remove --purge wolfram-engine
 sudo apt-get --yes remove --purge debian-reference-*
 sudo apt-get --yes remove --purge epiphany-browser*
@@ -27,8 +27,7 @@ sudo apt-get --yes remove --purge claws-mail
 sudo apt-get --yes remove --purge python3-thonny
 sudo apt-get --yes remove --purge geany*
 sudo apt-get --yes remove --purge chromium-browser
-sudo apt-get --yes remove --purge realvnc-vnc-viewer
-sudo apt-get --yes remove --purge realvnc-vnc-server
+
 
 #remove unused directory
 rm -r /home/pi/python_games/
