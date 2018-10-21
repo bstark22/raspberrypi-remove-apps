@@ -6,12 +6,12 @@ Script to remove applications from Raspian desktop for clean start
 
 1.Run the following command in Pi Terminal:
 ```
-git clone git://github.com/techworked/raspberrypi-remove-apps.git
+git clone git://github.com/techworked/raspberrypi-remove-apps2.git
 ```
 
 2.Move into folder
 ```
-cd raspberrypi-remove-apps
+cd raspberrypi-remove-apps2
 ```
 
 3.Make the script executable:
