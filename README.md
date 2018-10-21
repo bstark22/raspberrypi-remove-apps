@@ -47,6 +47,5 @@ claws mail
 thonny python    
 geany  
 chromium  
-VNC viewer  
-VNC server  
+
 
